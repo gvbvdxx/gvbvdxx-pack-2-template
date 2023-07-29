@@ -1,0 +1,12 @@
+{
+  "name": "gvbvdxx-pack-template",
+  "version": "1.0.0",
+  "description": "A \"hello world!\" text that displays on a html page.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/devserver.js",
+	"build": "node scripts/build.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
