@@ -867,10 +867,10 @@
   "resolved" "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.11.tgz"
   "version" "4.2.11"
 
-"gvbvdxx-pack-2@^1.0.0":
-  "integrity" "sha512-v9hnc1yOlPgt60dzj2dz82ThppoUZXmRSULhZ385t8Xud7hCA6oFpnha9g9d/flg5Tg8dySeB2al6VCxBPb2gg=="
-  "resolved" "https://registry.npmjs.org/gvbvdxx-pack-2/-/gvbvdxx-pack-2-1.0.0.tgz"
-  "version" "1.0.0"
+"gvbvdxx-pack-2@^1.5.0":
+  "integrity" "sha512-1pMLEtso+Kmz2XtTceJfzyxGEFbUGzeYOryug2uEhF8hzR+JapezBLKP1DSbNyGS6r2ey4tp+fa+7V4ZJQzspQ=="
+  "resolved" "https://registry.npmjs.org/gvbvdxx-pack-2/-/gvbvdxx-pack-2-1.5.0.tgz"
+  "version" "1.5.0"
   dependencies:
     "chalk" "^4.0.1"
     "glob" "^8.0.3"
